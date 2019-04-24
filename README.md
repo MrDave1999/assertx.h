@@ -128,5 +128,7 @@ int main(void)
 
 # Créditos
 
-- [MrDave](https://github.com/MrDave1999) (Por la idea de crear el include file)
-- [Microsoft](https://www.microsoft.com/es-ec/) (Por crear stdio.h & assert.h)
+- [MrDave](https://github.com/MrDave1999) 
+	- Por el desarrollo de assertx.h
+- [Microsoft Corporation](https://github.com/Microsoft) 
+	- Se usó el compilador `cl.exe` para poder compilar los códigos de prueba, de ese modo se comprueba sí no hubo algún error.
